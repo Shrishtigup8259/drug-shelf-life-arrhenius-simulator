@@ -20,3 +20,6 @@ Outputs `degradation_vs_time.png`, `arrhenius_plot.png`, and a printed shelf-lif
 ## Example output
 At 25°C, 40°C, and 60°C storage, the model predicts shelf life (time to 10% degradation) of roughly 724 days, 106 days, and 12 days respectively — showing the dramatic acceleration of degradation with temperature, consistent with real-world drug stability behavior.
 
+##plots
+![Degradation vs Time](degradation_vs_time.png)
+![Arrhenius Plot](arrhenius_plot.png)
