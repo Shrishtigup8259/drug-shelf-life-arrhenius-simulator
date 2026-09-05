@@ -70,6 +70,7 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.savefig("degradation_vs_time.png", dpi=150)
+plt.show()
 plt.close()
 
 # PRINTING A SUMMARY TABLE
@@ -94,6 +95,7 @@ plt.title("Arrhenius Plot")
 plt.grid(True)
 plt.tight_layout()
 plt.savefig("arrhenius_plot.png", dpi=150)
+plt.show()
 plt.close()
 
 print("\nSaved plots: degradation_vs_time.png and arrhenius_plot.png")
